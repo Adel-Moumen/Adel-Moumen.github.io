@@ -1,0 +1,10 @@
+p {
+    line-height: 30px;
+    max-width: 130ch;
+    text-align: left;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+}
