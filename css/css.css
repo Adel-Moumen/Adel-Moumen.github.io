@@ -8,3 +8,11 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 18px;
 }
+
+.class {
+    color: red;
+}
+
+h3 {
+    font-weight: bold;
+}
